@@ -1,0 +1,41 @@
+
+body {
+    font: 20px arial;
+}
+.navbar {
+    background-color: #5FB404;
+}
+
+.quem-somos {
+    background-color: rgb(110, 108, 108);
+    color: white;
+
+}
+
+.portfolio {
+    background-color: rgb(110, 108, 108);
+    color: white;
+
+}
+
+.servicos {
+    background-color:  rgb(150, 153, 150);
+    color: white;
+
+}
+
+.contato {
+    background-color: rgb(150, 153, 150);
+    color: white;
+
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
